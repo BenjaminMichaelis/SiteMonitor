@@ -1,0 +1,34 @@
+
+owner: BenjaminMichaelis
+repo: SiteMonitor
+
+assignees:
+  - BenjaminMichaelis
+
+sites:
+  - name: Benjamin.Michaelis.net
+    url: https://benjamin.michaelis.net/
+  - name: Photography Site
+    url: https://photography.michaelis.net/
+
+status-website:
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: demo.upptime.js.org
+  baseUrl: status.michaelis.net
+  logoUrl: https://raw.githubusercontent.com/BenjaminMichaelis/SiteMonitor/main/assets/Icon.png
+  name: Benjamin Michaelis Site Monitor
+  introTitle: "This status page monitors sites for Benjamin Michaelis"
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/BenjaminMichaelis/SiteMonitor).
+  navbar:
+    - title: Connect or find more products
+      href: https://benjamin.michaelis.net/
+
+commitMessages:
+  readmeContent: ":pencil: Update summary in README [skip ci]"
+  summaryJson: ":card_file_box: Update status summary [skip ci]"
+  graphsUpdate: ":bento: Update graphs [skip ci]"
+  commitAuthorName: "BenjaminMichaelisBot"
+  commitAuthorEmail: "bot@michaelis.net"
+
+i18n:
+  footer: This page is [open source]($REPO). Powered by [benjamin.michaelis.net](benjamin.michaelis.net)
