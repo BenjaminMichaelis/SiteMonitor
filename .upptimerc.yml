@@ -13,8 +13,7 @@ sites:
 
 status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: status.michaelis.net
+  cname: status.michaelis.net
   logoUrl: https://raw.githubusercontent.com/BenjaminMichaelis/SiteMonitor/main/assets/Icon.png
   name: Benjamin Michaelis Site Monitor
   introTitle: "This status page monitors sites for Benjamin Michaelis"
