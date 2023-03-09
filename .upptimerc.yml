@@ -1,4 +1,3 @@
-
 owner: BenjaminMichaelis
 repo: SiteMonitor
 
@@ -6,20 +5,27 @@ assignees:
   - BenjaminMichaelis
 
 sites:
-  - name: Benjamin.Michaelis.net
+  - name: Landing Page
     url: https://benjamin.michaelis.net/
   - name: Photography Site
     url: https://photography.michaelis.net/
+  - name: Graph Sketchpad
+    url: https://graphsketchpad.michaelis.net/
+  - name: Village Meal Generator
+    url: https://villagemealgenerator.michaelis.net/
 
 status-website:
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.michaelis.net
   logoUrl: https://raw.githubusercontent.com/BenjaminMichaelis/SiteMonitor/main/assets/Icon.png
   name: Benjamin Michaelis Site Monitor
   introTitle: "This status page monitors sites for Benjamin Michaelis"
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/BenjaminMichaelis/SiteMonitor).
+  introMessage: This is a status page which uses **real-time** data from my [GitHub repository](https://github.com/BenjaminMichaelis/SiteMonitor).
   navbar:
-    - title: Home Page
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER
+    - title: More Links
       href: https://benjamin.michaelis.net/
 
 commitMessages:
