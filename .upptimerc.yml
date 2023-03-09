@@ -19,7 +19,7 @@ status-website:
   introTitle: "This status page monitors sites for Benjamin Michaelis"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/BenjaminMichaelis/SiteMonitor).
   navbar:
-    - title: Connect or find more products
+    - title: Home Page
       href: https://benjamin.michaelis.net/
 
 commitMessages:
