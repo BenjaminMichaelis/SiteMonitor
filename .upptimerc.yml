@@ -16,7 +16,7 @@ sites:
 
 status-website:
   cname: status.michaelis.net
-  logoUrl: https://raw.githubusercontent.com/BenjaminMichaelis/SiteMonitor/main/assets/Icon.png
+  logoUrl: https://raw.githubusercontent.com/BenjaminMichaelis/SiteMonitor/master/assets/Icon.png
   name: Benjamin Michaelis Site Monitor
   introTitle: "This status page monitors sites for Benjamin Michaelis"
   introMessage: This is a status page which uses **real-time** data from my [GitHub repository](https://github.com/BenjaminMichaelis/SiteMonitor).
