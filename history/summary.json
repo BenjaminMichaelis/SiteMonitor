@@ -76,17 +76,19 @@
     "url": "https://villagemealgenerator.michaelis.net/",
     "icon": "https://icons.duckduckgo.com/ip3/villagemealgenerator.michaelis.net.ico",
     "slug": "village-meal-generator",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 156,
-    "timeWeek": 195,
-    "timeMonth": 209,
-    "timeYear": 209,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 1160,
+    "timeWeek": 525,
+    "timeMonth": 406,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2023-03-21": 0
+    }
   }
 ]
