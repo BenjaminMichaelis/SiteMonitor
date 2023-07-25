@@ -4,10 +4,10 @@
     "url": "https://benjamin.michaelis.net/",
     "icon": "https://icons.duckduckgo.com/ip3/benjamin.michaelis.net.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
@@ -15,17 +15,19 @@
     "timeWeek": 203,
     "timeMonth": 191,
     "timeYear": 222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-25": 1
+    }
   },
   {
     "name": "Personal Site",
     "url": "https://dev.michaelis.net/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.michaelis.net.ico",
     "slug": "personal-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
@@ -33,16 +35,18 @@
     "timeWeek": 188,
     "timeMonth": 201,
     "timeYear": 212,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-25": 1
+    }
   },
   {
     "name": "Photography Site",
     "url": "https://photography.michaelis.net/",
     "icon": "https://icons.duckduckgo.com/ip3/photography.michaelis.net.ico",
     "slug": "photography-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -52,6 +56,7 @@
     "timeMonth": 253,
     "timeYear": 263,
     "dailyMinutesDown": {
+      "2023-07-25": 0,
       "2023-04-19": 15
     }
   },
@@ -60,7 +65,7 @@
     "url": "https://graphsketchpad.michaelis.net/",
     "icon": "https://icons.duckduckgo.com/ip3/graphsketchpad.michaelis.net.ico",
     "slug": "graph-sketchpad",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,7 +76,9 @@
     "timeWeek": 222,
     "timeMonth": 208,
     "timeYear": 243,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-25": 0
+    }
   },
   {
     "name": "Village Meal Generator",
