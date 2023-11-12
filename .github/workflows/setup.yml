@@ -62,4 +62,4 @@ jobs:
           publish_dir: "site/status-page/__sapper__/export/"
           force_orphan: "false"
           user_name: "BenjaminMichaelisBot"
-          user_email: "bot@michaelis.net"
+          user_email: "git.bot@relay.benjamin.michaelis.net"
