@@ -4,7 +4,7 @@
     "url": "https://benjamin.michaelis.net/",
     "icon": "https://icons.duckduckgo.com/ip3/benjamin.michaelis.net.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 160,
     "timeYear": 210,
     "dailyMinutesDown": {
+      "2024-04-21": 0,
       "2024-03-16": 45,
       "2023-09-29": 16,
       "2023-08-08": 17,
