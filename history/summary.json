@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/benjamin.michaelis.net.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "58.48%",
+    "uptime": "58.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "13.51%",
+    "uptimeYear": "13.79%",
     "time": 165,
-    "timeDay": 107,
-    "timeWeek": 146,
-    "timeMonth": 156,
+    "timeDay": 108,
+    "timeWeek": 134,
+    "timeMonth": 155,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2025-03-12": 971,
@@ -329,8 +329,7 @@
       "2024-05-06": 1440,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
-      "2024-05-03": 1440,
-      "2024-05-02": 1440
+      "2024-05-03": 1440
     }
   },
   {
@@ -344,11 +343,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 303,
-    "timeWeek": 238,
-    "timeMonth": 259,
-    "timeYear": 214,
+    "time": 202,
+    "timeDay": 141,
+    "timeWeek": 234,
+    "timeMonth": 246,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -363,9 +362,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 387,
-    "timeWeek": 234,
-    "timeMonth": 261,
+    "timeDay": 366,
+    "timeWeek": 260,
+    "timeMonth": 267,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2024-09-13": 10,
@@ -383,11 +382,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 118,
-    "timeWeek": 249,
-    "timeMonth": 243,
-    "timeYear": 223,
+    "time": 205,
+    "timeDay": 669,
+    "timeWeek": 301,
+    "timeMonth": 245,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -402,9 +401,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 256,
-    "timeWeek": 217,
-    "timeMonth": 220,
+    "timeDay": 105,
+    "timeWeek": 212,
+    "timeMonth": 212,
     "timeYear": 214,
     "dailyMinutesDown": {}
   }
