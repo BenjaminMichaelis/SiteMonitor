@@ -332,19 +332,19 @@
     "url": "https://dev.michaelis.net/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.michaelis.net.ico",
     "slug": "personal-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 131,
-    "timeWeek": 179,
-    "timeMonth": 203,
+    "time": 201,
+    "timeDay": 118,
+    "timeWeek": 170,
+    "timeMonth": 200,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-05-07": 0
+      "2025-05-07": 15
     }
   },
   {
@@ -352,19 +352,19 @@
     "url": "https://photography.michaelis.net/",
     "icon": "https://icons.duckduckgo.com/ip3/photography.michaelis.net.ico",
     "slug": "photography-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 240,
-    "timeDay": 352,
-    "timeWeek": 274,
-    "timeMonth": 263,
-    "timeYear": 249,
+    "timeDay": 237,
+    "timeWeek": 255,
+    "timeMonth": 259,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-05-07": 0,
+      "2025-05-07": 15,
       "2024-09-13": 10,
       "2024-05-20": 9
     }
@@ -374,19 +374,19 @@
     "url": "https://graphsketchpad.michaelis.net/",
     "icon": "https://icons.duckduckgo.com/ip3/graphsketchpad.michaelis.net.ico",
     "slug": "graph-sketchpad",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 141,
-    "timeWeek": 310,
-    "timeMonth": 261,
+    "timeDay": 152,
+    "timeWeek": 292,
+    "timeMonth": 257,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2025-05-07": 0
+      "2025-05-07": 15
     }
   },
   {
@@ -394,19 +394,19 @@
     "url": "https://villagemealgenerator.michaelis.net/",
     "icon": "https://icons.duckduckgo.com/ip3/villagemealgenerator.michaelis.net.ico",
     "slug": "village-meal-generator",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 481,
-    "timeWeek": 183,
-    "timeMonth": 184,
+    "timeDay": 299,
+    "timeWeek": 175,
+    "timeMonth": 182,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-05-07": 0
+      "2025-05-07": 15
     }
   }
 ]
