@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/benjamin.michaelis.net.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "58.95%",
+    "uptime": "59.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "15.98%",
+    "uptimeYear": "16.25%",
     "time": 167,
-    "timeDay": 143,
-    "timeWeek": 143,
-    "timeMonth": 155,
-    "timeYear": 153,
+    "timeDay": 93,
+    "timeWeek": 136,
+    "timeMonth": 153,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2025-03-12": 971,
       "2025-03-11": 1440,
@@ -320,8 +320,7 @@
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
-      "2024-05-12": 1440,
-      "2024-05-11": 1440
+      "2024-05-12": 1440
     }
   },
   {
@@ -336,10 +335,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 278,
-    "timeWeek": 218,
-    "timeMonth": 214,
-    "timeYear": 215,
+    "timeDay": 203,
+    "timeWeek": 223,
+    "timeMonth": 218,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2025-05-07": 22
     }
@@ -356,9 +355,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 243,
-    "timeDay": 562,
-    "timeWeek": 298,
-    "timeMonth": 251,
+    "timeDay": 190,
+    "timeWeek": 296,
+    "timeMonth": 252,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2025-05-07": 22,
@@ -378,9 +377,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 193,
-    "timeWeek": 244,
-    "timeMonth": 266,
+    "timeDay": 99,
+    "timeWeek": 194,
+    "timeMonth": 267,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2025-05-07": 22
@@ -398,10 +397,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 108,
+    "timeDay": 121,
     "timeWeek": 164,
-    "timeMonth": 174,
-    "timeYear": 213,
+    "timeMonth": 175,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2025-05-07": 22
     }
