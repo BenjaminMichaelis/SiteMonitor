@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/benjamin.michaelis.net.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "59.46%",
+    "uptime": "59.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "18.72%",
+    "uptimeYear": "18.99%",
     "time": 167,
-    "timeDay": 234,
-    "timeWeek": 158,
+    "timeDay": 161,
+    "timeWeek": 168,
     "timeMonth": 148,
-    "timeYear": 152,
+    "timeYear": 153,
     "dailyMinutesDown": {
       "2025-03-12": 971,
       "2025-03-11": 1440,
@@ -310,8 +310,7 @@
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
-      "2024-05-22": 1440,
-      "2024-05-21": 1440
+      "2024-05-22": 1440
     }
   },
   {
@@ -325,10 +324,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 86,
-    "timeWeek": 238,
-    "timeMonth": 225,
+    "time": 204,
+    "timeDay": 131,
+    "timeWeek": 231,
+    "timeMonth": 224,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2025-05-07": 22
@@ -345,11 +344,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 234,
-    "timeDay": 142,
-    "timeWeek": 194,
-    "timeMonth": 239,
-    "timeYear": 254,
+    "time": 233,
+    "timeDay": 158,
+    "timeWeek": 200,
+    "timeMonth": 241,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2025-05-07": 22,
       "2024-09-13": 10
@@ -367,9 +366,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 158,
-    "timeWeek": 164,
-    "timeMonth": 243,
+    "timeDay": 166,
+    "timeWeek": 166,
+    "timeMonth": 244,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2025-05-07": 22
@@ -387,10 +386,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 162,
-    "timeWeek": 166,
-    "timeMonth": 176,
-    "timeYear": 214,
+    "timeDay": 87,
+    "timeWeek": 165,
+    "timeMonth": 168,
+    "timeYear": 213,
     "dailyMinutesDown": {
       "2025-05-07": 22
     }
