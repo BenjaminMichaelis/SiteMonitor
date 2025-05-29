@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/benjamin.michaelis.net.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "59.86%",
+    "uptime": "59.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.91%",
+    "uptimeYear": "21.19%",
     "time": 164,
-    "timeDay": 69,
-    "timeWeek": 103,
-    "timeMonth": 137,
-    "timeYear": 148,
+    "timeDay": 87,
+    "timeWeek": 102,
+    "timeMonth": 138,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2025-03-12": 971,
       "2025-03-11": 1440,
@@ -302,8 +302,7 @@
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
-      "2024-05-30": 1440,
-      "2024-05-29": 1440
+      "2024-05-30": 1440
     }
   },
   {
@@ -317,11 +316,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 333,
-    "timeWeek": 183,
-    "timeMonth": 219,
-    "timeYear": 220,
+    "time": 204,
+    "timeDay": 182,
+    "timeWeek": 186,
+    "timeMonth": 214,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2025-05-07": 22
     }
@@ -337,11 +336,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 233,
-    "timeDay": 172,
-    "timeWeek": 145,
-    "timeMonth": 232,
-    "timeYear": 244,
+    "time": 234,
+    "timeDay": 860,
+    "timeWeek": 252,
+    "timeMonth": 250,
+    "timeYear": 246,
     "dailyMinutesDown": {
       "2025-05-07": 22,
       "2024-09-13": 10
@@ -359,8 +358,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 275,
-    "timeWeek": 241,
+    "timeDay": 149,
+    "timeWeek": 236,
     "timeMonth": 234,
     "timeYear": 228,
     "dailyMinutesDown": {
@@ -379,8 +378,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 168,
-    "timeWeek": 169,
+    "timeDay": 133,
+    "timeWeek": 167,
     "timeMonth": 166,
     "timeYear": 214,
     "dailyMinutesDown": {
