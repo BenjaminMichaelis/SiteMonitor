@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/benjamin.michaelis.net.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "59.91%",
+    "uptime": "59.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.19%",
+    "uptimeYear": "21.46%",
     "time": 164,
-    "timeDay": 87,
-    "timeWeek": 102,
-    "timeMonth": 138,
+    "timeDay": 86,
+    "timeWeek": 103,
+    "timeMonth": 132,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2025-03-12": 971,
@@ -301,8 +301,7 @@
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
-      "2024-05-31": 1440,
-      "2024-05-30": 1440
+      "2024-05-31": 1440
     }
   },
   {
@@ -317,10 +316,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 182,
-    "timeWeek": 186,
-    "timeMonth": 214,
-    "timeYear": 219,
+    "timeDay": 86,
+    "timeWeek": 162,
+    "timeMonth": 207,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2025-05-07": 22
     }
@@ -337,9 +336,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 234,
-    "timeDay": 860,
-    "timeWeek": 252,
-    "timeMonth": 250,
+    "timeDay": 92,
+    "timeWeek": 248,
+    "timeMonth": 245,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2025-05-07": 22,
@@ -358,9 +357,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 149,
-    "timeWeek": 236,
-    "timeMonth": 234,
+    "timeDay": 138,
+    "timeWeek": 162,
+    "timeMonth": 230,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2025-05-07": 22
@@ -377,10 +376,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 133,
-    "timeWeek": 167,
-    "timeMonth": 166,
+    "time": 198,
+    "timeDay": 136,
+    "timeWeek": 151,
+    "timeMonth": 161,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2025-05-07": 22
