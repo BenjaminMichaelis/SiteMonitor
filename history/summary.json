@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/benjamin.michaelis.net.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "60.11%",
+    "uptime": "60.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "22.28%",
+    "uptimeYear": "22.54%",
     "time": 165,
     "timeDay": 195,
     "timeWeek": 126,
@@ -306,10 +306,10 @@
     "url": "https://dev.michaelis.net/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.michaelis.net.ico",
     "slug": "personal-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 204,
@@ -318,6 +318,7 @@
     "timeMonth": 204,
     "timeYear": 219,
     "dailyMinutesDown": {
+      "2025-06-02": 1,
       "2025-05-07": 22
     }
   },
@@ -367,9 +368,9 @@
     "url": "https://villagemealgenerator.michaelis.net/",
     "icon": "https://icons.duckduckgo.com/ip3/villagemealgenerator.michaelis.net.ico",
     "slug": "village-meal-generator",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
@@ -379,6 +380,7 @@
     "timeMonth": 160,
     "timeYear": 203,
     "dailyMinutesDown": {
+      "2025-06-02": 0,
       "2025-05-07": 22
     }
   }
