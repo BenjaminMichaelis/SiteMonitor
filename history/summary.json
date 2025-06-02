@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/benjamin.michaelis.net.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "60.06%",
+    "uptime": "60.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "22.01%",
-    "time": 164,
-    "timeDay": 203,
-    "timeWeek": 115,
-    "timeMonth": 136,
-    "timeYear": 147,
+    "uptimeYear": "22.28%",
+    "time": 165,
+    "timeDay": 195,
+    "timeWeek": 126,
+    "timeMonth": 139,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2025-03-12": 971,
       "2025-03-11": 1440,
@@ -298,8 +298,7 @@
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
-      "2024-06-03": 1440,
-      "2024-06-02": 1440
+      "2024-06-03": 1440
     }
   },
   {
@@ -314,9 +313,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 232,
-    "timeWeek": 181,
-    "timeMonth": 203,
+    "timeDay": 155,
+    "timeWeek": 184,
+    "timeMonth": 204,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2025-05-07": 22
@@ -334,10 +333,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 235,
-    "timeDay": 614,
-    "timeWeek": 319,
-    "timeMonth": 249,
-    "timeYear": 246,
+    "timeDay": 214,
+    "timeWeek": 328,
+    "timeMonth": 245,
+    "timeYear": 235,
     "dailyMinutesDown": {
       "2025-05-07": 22,
       "2024-09-13": 10
@@ -355,9 +354,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 601,
-    "timeWeek": 236,
-    "timeMonth": 240,
+    "timeDay": 167,
+    "timeWeek": 219,
+    "timeMonth": 225,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2025-05-07": 22
@@ -375,9 +374,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 217,
-    "timeWeek": 142,
-    "timeMonth": 158,
+    "timeDay": 178,
+    "timeWeek": 140,
+    "timeMonth": 160,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2025-05-07": 22
