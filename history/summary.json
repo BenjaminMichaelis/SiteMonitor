@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/benjamin.michaelis.net.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "61.85%",
+    "uptime": "61.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "32.48%",
-    "time": 169,
-    "timeDay": 125,
-    "timeWeek": 191,
-    "timeMonth": 191,
+    "uptimeYear": "32.69%",
+    "time": 168,
+    "timeDay": 69,
+    "timeWeek": 170,
+    "timeMonth": 188,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2025-03-12": 971,
@@ -260,8 +260,7 @@
       "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
-      "2024-07-11": 1440,
-      "2024-07-10": 1440
+      "2024-07-11": 1440
     }
   },
   {
@@ -276,10 +275,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 207,
-    "timeDay": 119,
-    "timeWeek": 198,
-    "timeMonth": 213,
-    "timeYear": 225,
+    "timeDay": 343,
+    "timeWeek": 212,
+    "timeMonth": 222,
+    "timeYear": 226,
     "dailyMinutesDown": {
       "2025-06-02": 7,
       "2025-05-07": 22
@@ -297,9 +296,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 243,
-    "timeDay": 154,
-    "timeWeek": 243,
-    "timeMonth": 301,
+    "timeDay": 138,
+    "timeWeek": 224,
+    "timeMonth": 299,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2025-07-09": 12,
@@ -320,10 +319,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 355,
-    "timeWeek": 191,
-    "timeMonth": 205,
-    "timeYear": 223,
+    "timeDay": 216,
+    "timeWeek": 190,
+    "timeMonth": 206,
+    "timeYear": 224,
     "dailyMinutesDown": {
       "2025-05-07": 22
     }
@@ -340,10 +339,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 204,
-    "timeDay": 101,
-    "timeWeek": 207,
-    "timeMonth": 228,
-    "timeYear": 210,
+    "timeDay": 373,
+    "timeWeek": 229,
+    "timeMonth": 236,
+    "timeYear": 211,
     "dailyMinutesDown": {
       "2025-06-02": 6,
       "2025-05-07": 22
