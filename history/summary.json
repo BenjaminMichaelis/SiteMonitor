@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/benjamin.michaelis.net.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "61.97%",
+    "uptime": "62.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "33.24%",
+    "uptimeYear": "33.51%",
     "time": 168,
-    "timeDay": 107,
-    "timeWeek": 157,
-    "timeMonth": 181,
-    "timeYear": 157,
+    "timeDay": 138,
+    "timeWeek": 153,
+    "timeMonth": 180,
+    "timeYear": 156,
     "dailyMinutesDown": {
       "2025-03-12": 971,
       "2025-03-11": 1440,
@@ -257,8 +257,7 @@
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
-      "2024-07-14": 1440,
-      "2024-07-13": 1440
+      "2024-07-14": 1440
     }
   },
   {
@@ -273,10 +272,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 207,
-    "timeDay": 216,
-    "timeWeek": 184,
-    "timeMonth": 202,
-    "timeYear": 225,
+    "timeDay": 86,
+    "timeWeek": 168,
+    "timeMonth": 196,
+    "timeYear": 224,
     "dailyMinutesDown": {
       "2025-06-02": 7,
       "2025-05-07": 22
@@ -294,9 +293,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 244,
-    "timeDay": 634,
-    "timeWeek": 279,
-    "timeMonth": 289,
+    "timeDay": 125,
+    "timeWeek": 220,
+    "timeMonth": 287,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2025-07-09": 12,
@@ -316,10 +315,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 140,
-    "timeWeek": 170,
-    "timeMonth": 192,
+    "time": 214,
+    "timeDay": 119,
+    "timeWeek": 163,
+    "timeMonth": 190,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2025-05-07": 22
@@ -337,8 +336,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 204,
-    "timeDay": 74,
-    "timeWeek": 189,
+    "timeDay": 105,
+    "timeWeek": 157,
     "timeMonth": 210,
     "timeYear": 210,
     "dailyMinutesDown": {
