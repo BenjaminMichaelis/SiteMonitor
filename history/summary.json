@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/benjamin.michaelis.net.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "63.43%",
+    "uptime": "63.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "42.55%",
-    "time": 160,
-    "timeDay": 190,
-    "timeWeek": 171,
+    "uptimeYear": "42.82%",
+    "time": 161,
+    "timeDay": 104,
+    "timeWeek": 159,
     "timeMonth": 170,
-    "timeYear": 160,
+    "timeYear": 159,
     "dailyMinutesDown": {
       "2025-08-01": 13,
       "2025-07-29": 11,
@@ -226,8 +226,7 @@
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
-      "2024-08-17": 1440,
-      "2024-08-16": 1440
+      "2024-08-17": 1440
     }
   },
   {
@@ -242,9 +241,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 252,
-    "timeDay": 141,
-    "timeWeek": 212,
-    "timeMonth": 282,
+    "timeDay": 343,
+    "timeWeek": 226,
+    "timeMonth": 288,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2025-07-21": 14,
@@ -265,10 +264,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 602,
-    "timeWeek": 311,
-    "timeMonth": 292,
+    "time": 225,
+    "timeDay": 292,
+    "timeWeek": 299,
+    "timeMonth": 280,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2025-05-07": 22
@@ -286,10 +285,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 209,
-    "timeDay": 242,
-    "timeWeek": 170,
+    "timeDay": 160,
+    "timeWeek": 169,
     "timeMonth": 236,
-    "timeYear": 215,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2025-06-02": 6,
       "2025-05-07": 22
