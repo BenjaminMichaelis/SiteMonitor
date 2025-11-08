@@ -6,8 +6,8 @@
     "slug": "landing-page",
     "status": "down",
     "uptime": "66.57%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "65.71%",
     "time": 251,
@@ -16,6 +16,7 @@
     "timeMonth": 489,
     "timeYear": 251,
     "dailyMinutesDown": {
+      "2025-11-08": 2,
       "2025-11-07": 7,
       "2025-11-04": 10,
       "2025-11-02": 7,
