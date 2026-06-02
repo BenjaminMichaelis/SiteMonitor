@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/benjamin.michaelis.net.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "72.39%",
+    "uptime": "72.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -69,13 +69,13 @@
     "url": "https://photography.michaelis.net/",
     "icon": "https://icons.duckduckgo.com/ip3/photography.michaelis.net.ico",
     "slug": "photography-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.93%",
-    "time": 334,
+    "time": 335,
     "timeDay": 598,
     "timeWeek": 389,
     "timeMonth": 462,
@@ -95,7 +95,8 @@
       "2026-03-02": 14,
       "2026-03-11": 20,
       "2026-05-10": 98,
-      "2026-05-19": 37
+      "2026-05-19": 37,
+      "2026-06-02": 10
     }
   },
   {
@@ -103,11 +104,11 @@
     "url": "https://graphsketchpad.michaelis.net/",
     "icon": "https://icons.duckduckgo.com/ip3/graphsketchpad.michaelis.net.ico",
     "slug": "graph-sketchpad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.94%",
     "time": 306,
     "timeDay": 359,
@@ -125,7 +126,8 @@
       "2026-03-11": 20,
       "2026-03-12": 24,
       "2026-05-10": 46,
-      "2026-05-19": 65
+      "2026-05-19": 65,
+      "2026-06-02": 5
     }
   },
   {
@@ -133,9 +135,9 @@
     "url": "https://villagemealgenerator.michaelis.net/",
     "icon": "https://icons.duckduckgo.com/ip3/villagemealgenerator.michaelis.net.ico",
     "slug": "village-meal-generator",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.93%",
@@ -155,7 +157,8 @@
       "2026-02-17": 17,
       "2026-03-11": 61,
       "2026-05-10": 46,
-      "2026-05-19": 65
+      "2026-05-19": 65,
+      "2026-06-02": 0
     }
   }
 ]
